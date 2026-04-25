@@ -54,6 +54,7 @@ nav:
     - 共建社区:
           - community-hub/README.md
           - 关于 Wiki: community-hub/about-wiki.md
+          - 联系我们: community-hub/contact-us.md
     - 博客:
           - blog/index.md
 
@@ -115,9 +116,6 @@ extra:
         - icon: simple/telegram
           link: https://t.me/AcWiki
           name: Telegram 频道
-        - icon: simple/telegram
-          link: https://t.me/AcFourm
-          name: Telegram 群组
     analytics:
         provider: custom
         feedback:
