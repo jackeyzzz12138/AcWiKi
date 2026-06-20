@@ -1,9 +1,14 @@
+!!! abstract "📌 相关推荐"
+    - [勤工俭学](work-study-program.md)
+    - [国家助学贷款](faq-national-student-loan.md)
+    - [学生优惠](../general-skills/student-discounts.md)
+
     不同学校对于奖学金以及助学金政策不同。
     欢迎大家指正或补充～
 
 # **奖学金**
 
-**_以下消息来源于 2025 年教育部发布的最新政策_**
+**_以下消息来源于 2025-2026 年教育部发布的最新政策_**
 
 ---
 

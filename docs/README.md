@@ -141,11 +141,11 @@ Ac-Wiki 是一个由志愿者驱动的公益项目。每一份贡献——无论
 
 [![提交建议](https://img.shields.io/static/v1?label=&message=提交Issue建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki/issues/new)
 
----
+<div class="grid cards" markdown>
 
 ## 🔗 高校课程资源共享
 
-我们向以下优秀的高校课程资源共享项目致敬，他们的开源精神与知识共享理念为本项目提供了重要参考：
+    学术资源、通识技能、学生优惠
 
 <table>
   <tr>
@@ -189,7 +189,7 @@ Ac-Wiki 是一个由志愿者驱动的公益项目。每一份贡献——无论
   </a>
 </div>
 
----
+### 生活健康
 
 ## 💬 加入社区
 

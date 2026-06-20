@@ -1,3 +1,8 @@
+!!! abstract "📌 相关推荐"
+    - [关键概念](some-key-concepts.md)
+    - [毕业论文（理学）](thesis-bachelor-science.md)
+    - [搜索引擎](../general-skills/search-platforms.md)
+
 学术研究，其核心在于通过系统而严谨的方法，探索未知、验证假设、构建新的知识体系。它的根本目的在于解决问题、增进人类理解，并推动社会整体的进步。与日常的探究不同，学术研究强调其系统性、严谨性与可验证性，所有结论都必须有充分的证据支持，且能被同行重复验证，同时，它必须对现有的知识体系有所贡献。
 
 在学术研究中，跟大学生关系最密切的部分就是学术论文的撰写，即学术写作。
@@ -291,3 +296,8 @@ APA 格式通常由以下几个部分组成：
 关于 APA 格式，可以参考以下这篇文章，有较为详细的解读：[APA 格式使用全解（适用于论文）](https://zhuanlan.zhihu.com/p/356016100)
 
 以及国外一所高校提供给学生的参考资料，非常详细：[APA_7th_Format_and_Citation_Student_Guide_ASC](https://364599a3-cdn.agilitycms.cloud/Attachments/5-services/academic-support-centre/APA_7th_Format_and_Citation_Student_Guide_ASC.pdf)
+
+## 参考链接
+
+- [推荐性国家标准 GB/T 7714-2025 信息与文献 参考文献著录规则](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=C6CE52E55AC09B9C79A20AEA77CEDD14)
+- [清华大学图书馆：参考文献著录规则参考](https://lib.tsinghua.edu.cn/info/1147/3359.htm)
